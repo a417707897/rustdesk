@@ -74,7 +74,7 @@ jobs:
             }
           # - { target: aarch64-pc-windows-msvc, os: windows-2022, arch: aarch64 }
     steps:
-	  - name: Checkout repository
+      - name: ssh-test
         uses: actions/checkout@v4
         with:
           submodules: 'recursive'
