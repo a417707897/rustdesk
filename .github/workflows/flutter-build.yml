@@ -74,11 +74,6 @@ jobs:
             }
           # - { target: aarch64-pc-windows-msvc, os: windows-2022, arch: aarch64 }
     steps:
-      - name: ssh-test
-        uses: actions/checkout@v4
-        with:
-          submodules: 'recursive'
-          ssh-key: ${{ secrets.DEPLOY_KEY }}
       - name: Export GitHub Actions cache environment variables
         uses: actions/github-script@v6
         with:
