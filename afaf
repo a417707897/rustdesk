@@ -1,0 +1,2275 @@
+[33mcommit ef89ead714d029af251b0bff0b8fb960d464b145[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: root <root@em.local>
+Date:   Fri Apr 11 09:35:15 2025 +0200
+
+    修改子模块仓库地址
+
+[33mcommit 263bbfc66f4163ea8be4b7df7bc89f8da2ede822[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Feb 12 17:04:42 2025 +0800
+
+    missed clear
+
+[33mcommit a039741e5af79d280ec3a1797db4d07a12bf10a7[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Feb 10 13:50:28 2025 +0800
+
+    fix: win10, border (#10753)
+    
+    Signed-off-by: fufesou <shuanglongchen@yeah.net>
+
+[33mcommit 2a0e8c109b587d13f6cf1d2e829909f88ab171e7[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Feb 10 00:25:11 2025 +0800
+
+    fix: macos, main window, dark theme, border (#10749)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 9614bf266a7d405288b72675e455615177e07893[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sat Feb 8 16:03:04 2025 +0800
+
+    update READEME
+
+[33mcommit aa63ebc7e5c130267039555a5cade5b085c15bec[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Feb 5 15:28:30 2025 +0800
+
+    Misuse Disclaimer
+
+[33mcommit fbba8f0b34ef767dead7199ebd92f4b4a62d390a[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Feb 4 20:33:02 2025 +0800
+
+    refact: file copy&paste, cross platform (no macOS)  (#10671)
+    
+    * feat: unix, file copy&paste
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: unix file c&p, check peer version
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Update pubspec.yaml
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    Co-authored-by: RustDesk <71636191+rustdesk@users.noreply.github.com>
+
+[33mcommit a27fa4308102fda390108d9592b1515a3adc966f[m
+Author: ANB5Dev <90337467+ANB5Dev@users.noreply.github.com>
+Date:   Mon Feb 3 15:18:20 2025 +0100
+
+    Update NL translation: spelling, capitalization, missing entries (#10661)
+
+[33mcommit 7a5941de98d276980456282d00ad339921bfa1bb[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Feb 2 20:31:44 2025 +0800
+
+    remove devcontainer since not maintained yet
+
+[33mcommit db3ca6a373f90f550a19c05197c154915a7176ee[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sat Feb 1 13:07:27 2025 +0800
+
+    remove useless code
+
+[33mcommit ce5f0d513f5e613e6c8fd055fbb71475707d7d46[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Fri Jan 31 16:54:57 2025 +0800
+
+    2024 -> 2025
+
+[33mcommit 05b0f95b793878d0fd728feb3153e508f2371b94[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Jan 30 13:53:02 2025 +0800
+
+    restore entrypoint.sh
+
+[33mcommit 8b24b195a2348fc0bec050a63cc271077973b034[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Jan 30 13:49:37 2025 +0800
+
+    remove useless files
+
+[33mcommit 5fc8e8c4284a780e56765b4ecc39f8df5883410c[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Jan 29 16:57:28 2025 +0800
+
+    remove PUBLIC_RS_PUB_KE
+
+[33mcommit 25f917a7b456f18bff59d092a9c6cd9bb3b3e9ce[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Tue Jan 28 16:16:00 2025 +0800
+
+    misused by bad guys (#10614)
+
+[33mcommit 55005f81293469a7eb3f8d2541ad3443581b7e75[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Jan 27 16:16:44 2025 +0800
+
+    fix: win, file clipboard, try empty (#10609)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit f08cb0412d32634475d75ac7e2a66a83dedad8b8[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sun Jan 26 19:39:38 2025 +0800
+
+    fix: windows, dll, pre-loading attack (#10608)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit fc2e27bcf02adff710ad958e0613dbf5d592aea9[m
+Author: XLion <xlion@xlion.tw>
+Date:   Sun Jan 26 14:18:26 2025 +0800
+
+    Create dependabot.yml (#10593)
+
+[33mcommit 7aa459266943d87b88d9e9d876f09a323a6df540[m
+Author: Theofanis Sarmidis <126983335+tsarmis@users.noreply.github.com>
+Date:   Sat Jan 25 10:39:16 2025 +0200
+
+    Update and fixes el.rs (#10600)
+
+[33mcommit d656ae29567bd9afa3e354f121e397b94d972826[m
+Author: Y-Ploni <7353755@gmail.com>
+Date:   Fri Jan 24 09:09:36 2025 +0200
+
+    Update he.rs (#10594)
+
+[33mcommit e4f00361f67f443847546f5127545652a08030b3[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Thu Jan 23 13:24:14 2025 +0800
+
+    Update README.md (#10587)
+
+[33mcommit 1b49d49df2f02c7e7c1832404e9cbc015c21ff9f[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Thu Jan 23 13:23:20 2025 +0800
+
+    Update README.md (#10586)
+
+[33mcommit 80f759c1edd901039e9ba9c1a2710be1b9180c60[m
+Author: bjoernp <54497210+bjoernp116@users.noreply.github.com>
+Date:   Thu Jan 23 06:22:25 2025 +0100
+
+    norwegian translation (#10579)
+    
+    Signed-off-by: bjoernp116 <bjoernpollen@gmail.com>
+
+[33mcommit da80f3352ad32af8a9ea92cb943cdacd6f7186bd[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Wed Jan 22 20:27:00 2025 +0800
+
+    fix vaapi create 2 times at first (#10576)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit ec3ba5be8e5055c73ff76546c6b639df93da13e1[m
+Author: Vasyl Gello <vasek.gello@gmail.com>
+Date:   Wed Jan 22 01:26:03 2025 +0000
+
+    Fix issues spotted during 1.3.7 fdroid build (#10570)
+    
+    * bridge.yml: Explicitly install cargo-expand of certain version
+    
+    @linsui spotted this trying to fix the build failure of 1.3.7
+    on f-droid:
+    
+    https://gitlab.com/fdroid/fdroiddata/-/merge_requests/18766
+    
+    * flutter-build.yml: drop workarounds for flutter 3.13
+    
+    @fufesou has removed them from build_fdroid.sh in #10040 but
+    forgot to remove them in main flutter_build.yml. flutter 3.13
+    is not used anymore, and those who want to build the old version
+    using flutter 3.13 can happily check out the appropriate commit
+    from Git history.
+    
+    * Bump vcpkg baseline to 2025.01.13
+    
+    @linsui addressed the missing vcpkg-tools.json file inside vcpkg
+    revision (microsoft side, not rustdesk's!) by updating the vcpkg
+    baseline.
+
+[33mcommit d04756ad702da3da57cb333841efe8501c84a69a[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Tue Jan 21 17:09:24 2025 +0800
+
+    replace self-hosted arm64 linux with ubuntu-22.04-arm (#10555)
+    
+    https://github.blog/changelog/2025-01-16-linux-arm64-hosted-runners-now-available-for-free-in-public-repositories-public-preview/
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 0eba939cd6d0d465ba81d7c4e52d580273d90ac3[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Tue Jan 21 16:57:07 2025 +0800
+
+    fix windows crash (#10562)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 1f02bc9d3ed379e970f8ae4d4497f76adfd98d1c[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Jan 20 23:12:00 2025 +0800
+
+    bump to 1.3.7 (#10548)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 5fa8c25e65cba1c437b4c252451394b41e66edda[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Jan 20 17:59:36 2025 +0800
+
+    opt qos (#10459)
+    
+    * Adjust bitrate and fps based on TestDelay messages.
+    * Bitrate is adjusted every 3 seconds, fps is adjusted every second and when receiving test lag.
+    * Latency optimized at high resolutions. However, when the network is poor, the delay when just connecting or sliding static pages is still obvious.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit c44803f5b09cd865fc36073ef7d8d65b71efda57[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Jan 20 17:33:41 2025 +0800
+
+    replace hbb_common with submodule (#10543)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 4b066b1fbaa8d5d6f9b53cb1e5b25e484f229da1[m
+Author: Samuel FORESTIER <HorlogeSkynet@users.noreply.github.com>
+Date:   Mon Jan 20 00:59:40 2025 +0100
+
+    fix(debian): makes postinst/prerm scripts idempotent (#10541)
+    
+    * fix(debian): makes `postinst` script idempotent
+    
+    * fix(debian): makes `prerm` script idempotent
+
+[33mcommit dd004f1a2d91cac774ecfe61ac22d28f1df5694b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Jan 17 02:27:20 2025 +0800
+
+    fix: clipboard, client side, update is required on conn (#10464)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 222dbf12cddd048034dabc94ad2ef034d8cbe0e8[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Jan 15 18:24:50 2025 +0800
+
+    fix: mobile, don't reset canvas on metrics changed (#10463)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit b5d54debce85529aa35ebb801c17bdf116b142dc[m
+Author: 是果宝呐 <125613427+guobao2333@users.noreply.github.com>
+Date:   Tue Jan 14 22:16:17 2025 +0800
+
+    Fix a translation error (#10500)
+
+[33mcommit 08cdf7134d2dbe48f681db720909e2bd266ad1c3[m
+Author: flusheDData <116861809+flusheDData@users.noreply.github.com>
+Date:   Fri Jan 10 14:14:59 2025 +0100
+
+    Update es.rs (#10468)
+
+[33mcommit be5037bd038614117aaa4272569a0a5addf45366[m
+Author: add-uos <164976197+add-uos@users.noreply.github.com>
+Date:   Wed Jan 8 14:16:16 2025 +0800
+
+    fix: [translations] Add the translation in tw.rs (#10452)
+    
+    Add the translation in tw.rs
+    
+    Log: Add the translation in tw.rs
+
+[33mcommit f9915df926f8d0c432e233ea2a78c75b4cca668e[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Jan 8 00:23:17 2025 +0800
+
+    update readme
+
+[33mcommit f96c759cf5f701617fc32234c81d32f5b89bd622[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Tue Jan 7 11:52:43 2025 +0800
+
+    fix https://github.com/rustdesk/rustdesk/issues/10440
+
+[33mcommit 8f329ebc1abe420b9d8ffc8398a6f6b271581ea2[m
+Author: Xiaobo Liu <cppcoffee@gmail.com>
+Date:   Tue Jan 7 11:21:43 2025 +0800
+
+    scrap: style (#10445)
+
+[33mcommit 4a3c11e71137e3359669566bf49cd565cdd83a2f[m
+Author: Xiaobo Liu <cppcoffee@gmail.com>
+Date:   Tue Jan 7 11:14:20 2025 +0800
+
+    scrap: fixed build warnning (#10442)
+    
+    ```shell
+    warning: elided lifetime has a name
+       --> src/common/mod.rs:192:21
+        |
+    187 |     pub fn to<'a>(
+        |               -- lifetime `'a` declared here
+    ...
+    192 |     ) -> ResultType<EncodeInput> {
+        |                     ^^^^^^^^^^^ this elided lifetime gets resolved as `'a`
+        |
+        = note: `#[warn(elided_named_lifetimes)]` on by default
+    ```
+
+[33mcommit 0dbd3094ec2fe7152e1524b2e395a4e1f40de717[m
+Author: Xiaobo Liu <cppcoffee@gmail.com>
+Date:   Mon Jan 6 18:20:18 2025 +0800
+
+    hbb_common: simplify is_compressed_file (#10436)
+    
+    * hbb_common: simplify is_compressed_file
+    
+    Signed-off-by: Xiaobo Liu <cppcoffee@gmail.com>
+    
+    * `exts` rename to `compressed_exts`
+    
+    ---------
+    
+    Signed-off-by: Xiaobo Liu <cppcoffee@gmail.com>
+
+[33mcommit 40999c3211bec6420679142372f5b53bca112ecf[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Jan 2 22:19:30 2025 +0800
+
+    fix ffmpeg videotoolbox wrong log (#10413)
+    
+    * Fix ffmpeg videotoolbox wrong log when changing bitrate
+    * Let qsv support abr, and it's safe for qsv to changing bitrate.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 7c2d62237fb3c5e9ce6dd1175eb724c85361af93[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Jan 1 23:11:38 2025 +0800
+
+    missed file
+
+[33mcommit ef90ab2bd48801f002f1199215244e581e5733ec[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Jan 1 23:05:52 2025 +0800
+
+    compelete fix https://github.com/rustdesk/rustdesk/discussions/10210
+    rather than the awful workaround
+
+[33mcommit 4f3b821883681a6f5efbaeebfe5e26001ab36401[m
+Author: Dimitris Apostolou <dimitris.apostolou@icloud.com>
+Date:   Wed Jan 1 04:15:57 2025 +0200
+
+    fix: fix crate vulnerabilities (#10407)
+
+[33mcommit 98b00cdb3d44af95c1b93a9b9596b6032c5ddb8d[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 30 11:51:36 2024 +0800
+
+    Fix image blur occurring at the moment of changing quality (#10399)
+    
+    1. Fix this issue occurs on FFmepg qsv, FFmpeg nvenc and SDK mfx, other
+       codecs don't have this problem. Clear cache is needed.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 8e4127b6a04ff3b465d86da5c832a6aa852fc13f[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Dec 29 23:43:31 2024 +0800
+
+    remove all stupid canLaunchUrl
+
+[33mcommit b1f54acf90ec2c8778dd0651ebc3c1dd76563aca[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Dec 29 23:37:52 2024 +0800
+
+    fix andriod update button cannot be clicked (#10394)
+    
+    1. Remove `canLaunchUrl`, which fix the issue
+    2. Remove `unregisterEventHandler` of `kCheckSoftwareUpdateFinish` when
+       connection page dispose, it's registered on main.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 39a430f96f9600a2ef19a7191d3f323c7ba4b8b5[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sat Dec 28 22:03:34 2024 +0800
+
+    upgrade url_launch
+
+[33mcommit a9f2e14091bb60d71f1af25a7f6d29115fe2d9d8[m
+Author: Kleofass <4000163+Kleofass@users.noreply.github.com>
+Date:   Fri Dec 27 08:47:01 2024 +0200
+
+    Update lv.rs (#10381)
+
+[33mcommit 77baba312281f54623a692f732f3301567d001fd[m
+Author: Vasyl Gello <vasek.gello@gmail.com>
+Date:   Thu Dec 26 09:54:46 2024 +0200
+
+    Fix missing locked arg in cargo install (#10374)
+    
+    Signed-off-by: Vasyl Gello <vasek.gello@gmail.com>
+
+[33mcommit 1c62a28ef390db4fc301c4df9db1979534f9af8b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Dec 25 16:36:13 2024 +0800
+
+    fix: build (#10364)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 9ed249966677287fe6e51cf115efff19e5e4680a[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Dec 25 15:18:06 2024 +0800
+
+    fix: file clipboard, init disabled (#10361)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 06bc554216922edbcd262426613f4b84003b1f65[m
+Author: XLion <xlion@xlion.tw>
+Date:   Wed Dec 25 00:04:34 2024 +0800
+
+    Fix: DEBIAN Control md5sums (#10356)
+    
+    * Fix: DEBIAN Control md5 sums
+    
+    * I forgot import
+
+[33mcommit 090f5b65accabdc9ce3b85888436115532c179a4[m
+Author: Jernej Simončič <1800143+jernejs@users.noreply.github.com>
+Date:   Tue Dec 24 07:15:22 2024 +0100
+
+    Update sl.rs (#10346)
+
+[33mcommit 49dabd3533a71f984553be5e5edb176cf5a72f57[m
+Author: Integral <integral@member.fsf.org>
+Date:   Mon Dec 23 20:28:04 2024 +0800
+
+    refactor: replace &PathBuf with &Path to enhance generality (#10332)
+
+[33mcommit 7289dbc80f91b3bf2a52d0eec597cfbe7b116f00[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Sun Dec 22 11:35:55 2024 +0800
+
+    Update flutter-build.yml (#10337)
+
+[33mcommit 72f5184ee0f8a551dadae3e1ea95532d8a72c4b3[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Dec 22 11:20:38 2024 +0800
+
+    unused
+
+[33mcommit e9c5e0d26b10c6aa2d243d31c65a27560829002c[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Dec 21 15:09:03 2024 +0800
+
+    fix: android, mouse mode, right menu, unexpected click (#10330)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 03999d900e325d81c7bb11da1ad60bf43c31a8cf[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sat Dec 21 15:00:16 2024 +0800
+
+    1.3.6
+
+[33mcommit b24551da7b07b6a830c4237228c3f74dbb7682fd[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Dec 21 14:53:28 2024 +0800
+
+    refact: linux, move rustdesk into /usr/share (#10327)
+    
+    * refact: linux, move rustdesk into /usr/share
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * linux, upgrade, try remove old empty folders
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit bc461fe99b1838897f39134d1a0eb01abdb92b52[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Fri Dec 20 22:46:42 2024 +0800
+
+    Revert "Revert "revert linux use cpal "" (#10326)
+    
+    * Revert "Revert "revert linux use cpal (#10260)" (#10262)"
+    
+    This reverts commit 827b5f6a4c0c0208431291177c3d42b271dad835.
+    
+    * update Cargo.lock
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 25e438a6631011dfcec7ee6c15208b4d6ac914e4[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Fri Dec 20 22:24:53 2024 +0800
+
+    crate
+
+[33mcommit 1f5aeda41dcd3c1844a3a8328d7221076cbac2db[m
+Author: jkh0kr <admin@jkh.kr>
+Date:   Fri Dec 20 16:09:33 2024 +0900
+
+    Update ko.rs (#10320)
+
+[33mcommit 9114743577d31c4b77d622c17bb3df79a4a1b910[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Dec 20 09:24:08 2024 +0800
+
+    fix: linux, flutter, workaround freeze (#10324)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 7830a9e9f3334b2af3bf10656f6190bc10a35504[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Dec 19 15:05:24 2024 +0800
+
+    refact: linux, install path (#10316)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 5fa848513058f89a34cff2b9ef9a96ffbc4a85bc[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Dec 18 21:17:04 2024 +0800
+
+    fix: macos, show remote cursor (#10314)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit ed9cb372834f1c3b04552907296555a1e664ce31[m
+Author: Iacopo Modica <52070747+n3ural@users.noreply.github.com>
+Date:   Wed Dec 18 14:02:53 2024 +0100
+
+    Fix translation issues in Italian language file (#10312)
+    
+    Corrected multiple translation errors and typos in the Italian language resource file.
+
+[33mcommit e4b270a581446b1b54f2c3a562bae6fca484cc3e[m
+Author: 21pages <pages21@163.com>
+Date:   Tue Dec 17 21:52:17 2024 +0800
+
+    update hwcodec (#10306)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9dd9c45afcc2274017f5220900ab5ac32a5c0a28[m
+Author: 21pages <pages21@163.com>
+Date:   Tue Dec 17 15:01:01 2024 +0800
+
+    fix ci (#10305)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit e163b75407ccb53c59d2274136b6db1055abd2af[m
+Author: 21pages <pages21@163.com>
+Date:   Tue Dec 17 12:07:34 2024 +0800
+
+    update hwcodec (#10304)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 10ff3e69372547503361094ffb5abf4a6c559913[m
+Author: princeyogesh <yogeshdeshpande79@gmail.com>
+Date:   Tue Dec 17 08:07:57 2024 +0530
+
+    Fix for compilation due to minimum  Cmake version update and arm based compilation of vcpkg (#10297)
+
+[33mcommit acae6d6558a7e5d84893c94a2d7e624728c18110[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 16 19:40:48 2024 +0800
+
+    try fix FFmpeg amf encode hang (#10283)
+    
+    * Possible Causes
+      * GPU API Call Hangs: This could occur, though it's less likely.
+      * Infinite Loop: If `QueryOutput` always fails and `hwsurfaces_in_queue_max` is zero, the loop will continue indefinitely.
+    * Proposed Solution
+      * A query_timeout patch has been added to FFmpeg with a value of 1000ms, which exceeds the time required to encode a single frame. This allows us to remove the loop.
+    * Test
+      * After removing the loop, no frame encoding failures were encountered during testing. A single call to QueryOutput is sufficient, as it typically consumes about 12ms on a 2K screen.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit d025ca1d81a0c9230d452f9e6c7093dbd8ef0995[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Dec 16 19:01:12 2024 +0800
+
+    refact: linux, chcon, bin_t (#10293)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit e5aa31eb4ce960aed3b7d6318457dacd1d3eb82b[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 16 17:13:48 2024 +0800
+
+    Fix auto record outgoing sessions ignore record permission (#10294)
+    
+    1. Fix auto record outgoing sessions ignore record permission
+    2. Stop record if record permission changed
+    3. Update hwcodec
+    4. Make video thread finish faster when connection closed
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 771cc565ab343c9bacad0f2951bc14d94cda5a88[m
+Author: Dmitry Beskov <43372966+besdar@users.noreply.github.com>
+Date:   Mon Dec 16 12:04:53 2024 +0400
+
+    Flathub badge in the README (#10288)
+    
+    * new flathub badge in readme
+    
+    * replacing badge with svg
+
+[33mcommit db3bdb16a1c30cf41559bd038b3f69edf01f3974[m
+Author: summoner001 <summoner001@users.noreply.github.com>
+Date:   Mon Dec 16 08:48:17 2024 +0100
+
+    Update hu.rs (#10287)
+    
+    * Update hu.rs
+    
+    Fixes and corrections
+    
+    * Update hu.rs
+    
+    more fixes
+    
+    * Update hu.rs
+    
+    Minor fixes
+    
+    * Update hu.rs
+    
+    Fixing typo
+
+[33mcommit c06e1d74b4892770eeddc0259d7728ebc9326407[m
+Author: Dmitry Beskov <43372966+besdar@users.noreply.github.com>
+Date:   Sun Dec 15 12:55:43 2024 +0400
+
+    changes for flatpak build (#10273)
+
+[33mcommit b544a2889b7fe3b6381c13ddfd08f314a613d1d2[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Fri Dec 13 13:28:48 2024 +0800
+
+    update vcpkg to 2024.11.16 (#10272)
+    
+    1. version changes:
+    * vcpkg: 2024.07.12 -> 2024.11.16
+    * aom (except linux sciter): 3.9.1 -> 3.11.0
+    * libvpx: 1.14.1 -> 1.15.0
+    * libyuv: not update because compiled failed on arm64, and didn't apply
+      different version on different archs
+    * opus: already the latest version
+    * ffmpeg: 7.0.2 -> 7.1
+    
+    2. other changes:
+    * android 5.0 required, otherwise crash when start, because FFmpeg 7.1 link to mediandk directly
+    
+    3. Tests:
+    * Except arm, arm64, linux amf, ios, all the other codecs are tested
+    * Compile on arm32 linux is not tested, ci is failed before vcpkg
+      install
+    * Tested windows FFmpeg qsv, still no memory leak
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9c4563687531a9d7d4379ab95118ac8eb7b38ec7[m
+Author: Yevhen Popok <xalt7x.service@gmail.com>
+Date:   Thu Dec 12 05:13:50 2024 +0200
+
+    Update uk.rs (#10265)
+
+[33mcommit 827b5f6a4c0c0208431291177c3d42b271dad835[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Wed Dec 11 13:42:25 2024 +0800
+
+    Revert "revert linux use cpal (#10260)" (#10262)
+    
+    This reverts commit b0791ba1839c099cdd72de9db9448e46ae75c9f1.
+
+[33mcommit b0791ba1839c099cdd72de9db9448e46ae75c9f1[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Wed Dec 11 13:35:50 2024 +0800
+
+    revert linux use cpal (#10260)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit b24b381575218ba351889b87a82d4cb9135e0070[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Dec 10 13:03:00 2024 +0800
+
+    fix: macos, keyboard, translate mode, capslock and deadkeys (#10248)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0751005073de715abc5758bd58675313ec232e23[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Dec 10 11:01:34 2024 +0800
+
+    Fix/windows empty file clipboard on disconn (#10242)
+    
+    * fix: windows, empty file clipboard on disconn
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: Don't send files copied before the conn
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: windows, file clipboard
+    
+    Empty clipboard if no `Ctrl+C` is pressed, but
+    `CliprdrDataObject_GetData()` is called.
+    `CliprdrDataObject_GetData()` is only called in the clipboard object set
+    by RustDesk.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit fe06cf77da96793d4ff3ce78c8b4ed2ff1777b6c[m
+Author: bovirus <1262554+bovirus@users.noreply.github.com>
+Date:   Tue Dec 10 03:48:38 2024 +0100
+
+    Italian language update (#10245)
+
+[33mcommit d57cf204c82215e0159d7459511392ea6b0be014[m
+Author: Alex Rijckaert <rijckaertalex@gmail.com>
+Date:   Tue Dec 10 03:48:29 2024 +0100
+
+    Update nl.rs (#10243)
+
+[33mcommit 63e22b7685ecea3dea94cbc85ba863364761eebe[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Mon Dec 9 18:49:02 2024 +0800
+
+    fix build error with latest xcode
+
+[33mcommit a02d2bb4ac030c24a5aa1943b1cfecaf6ae97bd5[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 9 15:41:49 2024 +0800
+
+    fix ios audio output (#10235)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 0f7d78c263b39a3ae128a2994d8c1f3ce0a2d229[m
+Author: solokot <solokot@gmail.com>
+Date:   Mon Dec 9 10:11:09 2024 +0300
+
+    Update ru.rs (#10233)
+
+[33mcommit 0e321bd8457bdefb364273a1483b0540697a93e3[m
+Author: XLion <xlion@xlion.tw>
+Date:   Mon Dec 9 12:30:50 2024 +0800
+
+    Update tw.rs (#10231)
+
+[33mcommit 875b738222c75b60da5935e9560eee1ffffdfeed[m
+Author: Mr-Update <37781396+Mr-Update@users.noreply.github.com>
+Date:   Mon Dec 9 05:30:32 2024 +0100
+
+    Update de.rs (#10228)
+
+[33mcommit b39e851262cea9dd869dcaae55a1f6730728f086[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Dec 8 20:09:10 2024 +0800
+
+    fix typo (#10227)
+    
+    newer version -> new version
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit ec466d459f1d57296b196d882f3ea8a5a0ed2b83[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Dec 8 18:27:45 2024 +0800
+
+    add version update translation (#10225)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit d4a712bb320e16d59f6c6ecebe118a3b0ba17633[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Dec 8 18:26:55 2024 +0800
+
+    always block desktop settings page if video connection exists (#10224)
+    
+    1. Always block desktop settings page if video connection exists, both mouse event and key event are blocked..
+    2. Server control page always block key event.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 1c17fddf519543d142af47f12f81eac20096a135[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Dec 7 22:34:54 2024 +0800
+
+    fix: android clipboard permission (#10223)
+    
+    * fix: android clipboard permission
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: Android, clipboard, floating ball
+    
+    Call rust to check if clipboard is enabled.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 3c838e7a9278df9e3f6293ef6aada14322e3a3c9[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Dec 7 15:12:15 2024 +0800
+
+    fix: Android, try sync clipboard on connecting (#10218)
+    
+    * fix: Android, try sync clipboard on connecting
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Android, clipboard, more clear skip check
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * comments
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * comment todo: Android clipboard listener, callback twice
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Android, clipboard, remove listner
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 8f44787ba356b9f0efbc33bdae88ae306dffb15b[m
+Author: VenusGirl❤ <venusgirl@outlook.com>
+Date:   Sat Dec 7 11:24:32 2024 +0900
+
+    Update README-KR.md (#10217)
+
+[33mcommit 12e15b5a37e61f7a22f271ec1a3fb97bd0cea30d[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Dec 6 20:01:11 2024 +0800
+
+    fix: linux, weak network, repeated keys (#10211)
+    
+    Use `press` as the `click` flag on Linux to avoid repeated keys, like
+    the Legacy mode.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 588103c6dc36e16d07347dbc7f15e7566ec3dcee[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Dec 5 18:38:39 2024 +0800
+
+    1.3.5
+
+[33mcommit 2ce9b108ed66fe324cdb21becdb7e60ae9d2198c[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Dec 5 17:26:34 2024 +0800
+
+    fix: linux, transparent window (#10192)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 93e31078810ae5044837c1ee85b287f162a53e39[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Thu Dec 5 18:07:23 2024 +0900
+
+    Revert "Revert "fix: workaround, linux window, transparent rounded corner (#1…" (#10191)
+    
+    This reverts commit 468bdd6cc6f18f5b07a38e82f4b0d1c97acd051d.
+
+[33mcommit 468bdd6cc6f18f5b07a38e82f4b0d1c97acd051d[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Thu Dec 5 12:08:58 2024 +0900
+
+    Revert "fix: workaround, linux window, transparent rounded corner (#10128)" (#10186)
+    
+    This reverts commit 8d4c86fe7ff96e38c526c910e8381d697ab66446.
+
+[33mcommit d5c5825ffdaabf6b465a86d3c1345ba0e2341957[m
+Author: Dmytro Zozulia <67293930+Nollasko@users.noreply.github.com>
+Date:   Thu Dec 5 05:04:10 2024 +0200
+
+    Update uk.rs (#10174)
+
+[33mcommit fe4094777f14fe5835c46ec892818efe7eb1483c[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Thu Dec 5 11:44:37 2024 +0900
+
+    Revert "fix: linux, window, workaround, mint, mate (#10146)" (#10184)
+    
+    This reverts commit bd0a33e46796a9f24bba6fabb2534490fe1757a0.
+
+[33mcommit f13ef48cec91ec7034ba905a6978b9e48b91e1b1[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Dec 5 10:38:22 2024 +0800
+
+    fix: macos, aarch64, try fix running on 12.3 (#10183)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit a23822074ec5199c9fd462ffe5c9b1308601739c[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Dec 4 17:10:32 2024 +0800
+
+    feat: Android, opt, check update on startup (#10165)
+    
+    * feat: Android, opt, check update on startup
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: check update only on startup
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * fix: Android, "Download new version"
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 3d17bf4990b31701a58b1fd6a3f1af3c7260a949[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Wed Dec 4 17:10:10 2024 +0800
+
+    linux dynamic load libva (#10171)
+    
+    1. Linux dynamic load libva, which can fix lack of libva dependency for
+       appimage or flatpak, also fix libva version mismatch between build
+    and run.
+    2. Remove libvdpau, it's not used, and add libva2 explicitly for deb and
+       appimage
+    3. Print FFmpeg configure log to know the actual codecs.
+    
+    Test
+    *  ubuntu 22.04 x64
+      - [x] deb
+      - [x] flatpak
+      - [x] appimage
+    * ubuntu 18.04
+      * deb: fcntl64 not found
+      - [x]:appimage
+      - [ ]: platpak
+    hwcodec example:
+      - [x]: combination of lacking any of libva2, libva-x11-2, libva-drm2,
+        intel-media-va-driver
+    - [ ] federa
+    - [ ] arch
+    - [ ] arm64: my ci can't finish arm64 building
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit fd67be4a16067b9add78dfbeb3f5186c89a062fb[m
+Author: Yevhen Popok <xalt7x.service@gmail.com>
+Date:   Wed Dec 4 04:31:13 2024 +0200
+
+    Update uk.rs (#10162)
+
+[33mcommit e6edf39305d82d802a06cd718fed39e0fb70c700[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Dec 3 14:22:20 2024 +0800
+
+    fix: support emptry folder transfer for web (#10151)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 34d2c62781d0472df8bc17e9e9aa569be9b22419[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Tue Dec 3 14:14:29 2024 +0800
+
+    set id/relay server with a dialog (#10150)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit bd0a33e46796a9f24bba6fabb2534490fe1757a0[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Dec 3 01:02:41 2024 +0800
+
+    fix: linux, window, workaround, mint, mate (#10146)
+    
+    * refact: linux, window, workaround, mint, mate
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: case insensitive
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit b8d36b6558548602961d4a7ea35373e543608be5[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Mon Dec 2 22:29:20 2024 +0800
+
+    revert multi-window plugin
+
+[33mcommit f38d89aaeefd008689bc98b11c2559576636c669[m
+Author: solokot <solokot@gmail.com>
+Date:   Mon Dec 2 13:30:24 2024 +0300
+
+    Update ru.rs (#10143)
+
+[33mcommit 773b9d6645fad2159471881a9ed865e229bbb00b[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 2 17:10:34 2024 +0800
+
+    win7 uses soft rendering by default (#10139)
+    
+    win7 vm got black screen on remote window with texture rendering
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit dea99ffb3ab34fee562090d214af419b557debdf[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Mon Dec 2 16:11:12 2024 +0800
+
+    fix rustdesk exit crash
+
+[33mcommit 3251045e22c705f2e20f48449b9378a5d99480ce[m
+Author: jkh0kr <admin@jkh.kr>
+Date:   Mon Dec 2 16:47:23 2024 +0900
+
+    Update ko.rs (#10138)
+    
+    Update ko.rs
+
+[33mcommit dc58c85e30e8df6aec6aa80a16e1a2647e29aee5[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Dec 2 12:35:44 2024 +0800
+
+    try fix mac textedit of server config (#10135)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 5a2a94d2cc7a2a4894b20af9e741b9c0db974453[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Dec 2 00:09:03 2024 +0800
+
+    fix: macos, input (#10133)
+    
+    1. Workaround sticky `Fn` for more keys.
+    2. Workaround stikey `Help`.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit f330953f4f59cbfb3bca08b3466a7188152bdb85[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Dec 1 18:49:24 2024 +0800
+
+    bump to 1.3.4
+
+[33mcommit 8d4c86fe7ff96e38c526c910e8381d697ab66446[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sun Dec 1 17:19:21 2024 +0800
+
+    fix: workaround, linux window, transparent rounded corner (#10128)
+    
+    * fix: linux window, rounded corner
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Update my_application.cc
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    Co-authored-by: RustDesk <71636191+rustdesk@users.noreply.github.com>
+
+[33mcommit f8c2713c5bc945f0758026c33558515d5e7a4719[m
+Author: Kleofass <4000163+Kleofass@users.noreply.github.com>
+Date:   Sat Nov 30 18:27:39 2024 +0200
+
+    Update lv.rs (#10124)
+
+[33mcommit 082a66b28237035ab30f21081daa03e8acda1ad9[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Nov 30 15:01:44 2024 +0800
+
+    refact: remove flutter_improved_scrolling (#10120)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 743b0ce8ce8537ee54e283af6753b1c0dcbcc344[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 30 13:29:03 2024 +0800
+
+    fix mediacodec patch (#10119)
+    
+    ensure set_parameters_id is not null
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9d9b67aca58e35e95ff08fb0686b3494a3cedfc7[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 30 12:19:42 2024 +0800
+
+    update flutter texture rgba renderer plugin, remove switch rgba (#10070)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit d60b5a6ca097916758d8dfdd2e89b2ec3b581dbf[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 30 11:44:51 2024 +0800
+
+    videotoolbox/mediacodec support changing bitrate dynamically (#10117)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit e0ed6ee986e6b68cacbfdaefd5bf306e935e73f6[m
+Author: Vasyl Gello <vasek.gello@gmail.com>
+Date:   Sat Nov 30 03:24:45 2024 +0200
+
+    Fix F-Droid build and bump Android NDK to r27c (#10105)
+    
+    * Fix fdroid build
+    
+    * Refactor recent @fufesou edits to reflect the fact that
+      .gclient file is needed only on x86 to build jit-release
+      version of flutter-engine and `flutter-sdk` directory is
+      not affected by flutter version checkouts
+    
+    * Install cargo-ndk and flutter-rust-codegen with `--locked`
+      argument to avoid bumping `cargo-platform` to require
+      newer Rust toolchain
+    
+    Signed-off-by: Vasyl Gello <vasek.gello@gmail.com>
+    
+    * Bump Android NDK to r27c
+    
+    Signed-off-by: Vasyl Gello <vasek.gello@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: Vasyl Gello <vasek.gello@gmail.com>
+
+[33mcommit d3f0c80e94657285da23b0bd42b85b16c20a8c40[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 30 09:24:05 2024 +0800
+
+    "Untagged" tag uses the theme accent color (#10111)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit b32ff87c6e059fcb377d1e09de48827a1f746df3[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 29 22:39:07 2024 +0800
+
+    fix: android, pan, canvas, remove `toInt()` (#10103)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit b91b49229aa827d0d2b425d1ff1ad7ba9a0040f4[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Fri Nov 29 19:10:57 2024 +0800
+
+    enable our engine to fix dart supporting win7, https://github.com/rustdesk/rustdesk/issues/10085#issuecomment-2506485955
+
+[33mcommit afc8bb71dc1c738d92c4fa6cfef9e999a916cdf5[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 29 00:56:38 2024 +0800
+
+    feat: mobile, key help tool, more keys (#10068)
+    
+    * feat: mobile, key help tool, vk_enter
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Mobile, add more function keys
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Mobile, more virtual function keys
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * uinput, menu maps key_compose
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 4f86169f7f2f2e643ef230e17818e58c2ce35633[m
+Author: XLion <xlion@xlion.tw>
+Date:   Thu Nov 28 00:10:47 2024 +0800
+
+    Update tw.rs (#10076)
+
+[33mcommit 2cf43042e659352e5c3b4e9375d5cf39e080ed45[m
+Author: Leo Mozoloa <leo.drrty@gmail.com>
+Date:   Wed Nov 27 16:00:41 2024 +0100
+
+    Update fr.rs (#10075)
+
+[33mcommit 734fb8d6f7a226786efb533e30e3ee75b4246fc3[m
+Author: BoyChai <1972567225@qq.com>
+Date:   Wed Nov 27 10:47:09 2024 +0800
+
+    Update README-ZH.md (#10069)
+    
+    Modify Alibaba Cloud apt source
+
+[33mcommit 3c7f6d3127e7c35c0b949d5299e271bc27b7d708[m
+Author: bovirus <1262554+bovirus@users.noreply.github.com>
+Date:   Wed Nov 27 00:37:49 2024 +0100
+
+    Italian language update (#10067)
+
+[33mcommit b99c540210a98df39b96ec65f2ec40fd703c7506[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Tue Nov 26 20:35:17 2024 +0800
+
+    add "Untagged" to filter addressbook peers without tags (#10063)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 84dab0e96f3a30ad0d17f062db35b157389823de[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 26 20:33:54 2024 +0800
+
+    Fix/android keyboard map mode workaround (#10064)
+    
+    * fix: Android, keyboard, map mode, workaround
+    
+    The `KeyEvent.physicalKey.usbHidUsage` are wrong if using Microsoft
+    SwiftKey keyboard.
+    
+    `window.addFlags(WindowManager.LayoutParams.FLAG_ALT_FOCUSABLE_IM)` is a workaround for this issue.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * fix: clear callback on first image
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Android disable soft keyboard in remote page if not editing.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 458a88fb894c3d32a371fa9a129c2288969a476f[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 26 16:24:51 2024 +0800
+
+    fix: mobile autocomplete options (#10060)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 8a70932cd663971bb1ec32696f5a27025a3e7563[m
+Author: Yevhen Popok <xalt7x.service@gmail.com>
+Date:   Tue Nov 26 03:51:27 2024 +0200
+
+    Update Ukrainian UI translation (#10056)
+
+[33mcommit edfae98a01db9cec0499fd94e34e867548f0ce91[m
+Author: flusheDData <116861809+flusheDData@users.noreply.github.com>
+Date:   Mon Nov 25 16:46:28 2024 +0100
+
+    Update es.rs (#10055)
+    
+    New term added
+
+[33mcommit d61c99b1051d14bf88056ca5099726aad9c90fdc[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 25 21:49:09 2024 +0800
+
+    fix: Android 29, crash on restart and reconn (#10054)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 30a11bfe0a4166d48e8d39a25311641c8cc166d9[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 25 21:45:58 2024 +0800
+
+    android wait 3s for isStart flag (#10053)
+    
+    The normal process is that `startCapture` and `VideoService::run` run in parallel,  the `run` function waits for startCapture to complete, then sets the scale, and subsequently calls `stopCapture` and `startCapture`. If the `run` function does not wait long enough, `startCapture` initializes the surface with the original width and height, but the `start` flag is still false, meaning it can't call `stopCapture` and `startCapture`. This results in only capturing the upper-left portion of the virtual display.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9d2bdfefb18afb3c92d4719e08e3d242739e7dd3[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 25 11:12:43 2024 +0800
+
+    feat: update build_fdroid.sh (#10040)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 34b93c6f8369e06ad64f94ebbfc1dfc6255fd943[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 25 11:09:17 2024 +0800
+
+    fix aom pts (#10042)
+    
+    the old pts/duration is wrong, use timebase 1/1000 like other codecs, not found any differences.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 152d0ce74b3592698cffce2bec4b733b4e85c3f7[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Nov 24 21:07:03 2024 +0800
+
+    install vaapi dependencies before vcpkg installs ffmpeg (#10035)
+    
+    linux vaapi encoding/decoding lost since installing ffmpeg with
+    vcpkg
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 32a3bcdc4f8f8128cb98e1049bde24b90b187f09[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Nov 24 10:05:00 2024 +0900
+
+    no custom engine
+
+[33mcommit 314c93b2107b4737570ecffdbd47d2e885505554[m
+Author: zuiyu <1542844298@qq.com>
+Date:   Sat Nov 23 23:09:11 2024 +0800
+
+    Create empty dir on send files in local (#9993)
+    
+    * feat: Add empty dirs on sendfiles
+    
+    * Update connection.rs
+    
+    ---------
+    
+    Co-authored-by: RustDesk <71636191+rustdesk@users.noreply.github.com>
+
+[33mcommit b64f6271e2b8989759c4d09f6720a6efca52dc81[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Nov 24 00:08:39 2024 +0900
+
+    typo
+
+[33mcommit ac044c4049e028ebe8a00e9369af4dfcba0fcd6a[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Sat Nov 23 23:54:43 2024 +0900
+
+    Update config.toml (#10029)
+
+[33mcommit 0973f51df9bf1f68c1e6f09f5204c8f7471dc2ff[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Nov 23 18:41:27 2024 +0800
+
+    feat: macos, audio, loopback (#10025)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 02b046bdbfad52be19e30e5cce76aecf15bfa269[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 23 16:36:13 2024 +0800
+
+    fix hwcodec ram quality change not work (#10024)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 02c274aeb61825acc756cce36ec95ec84fcd9447[m
+Author: Andrzej Rudnik <arudnik@arudnik.pl>
+Date:   Sat Nov 23 01:41:25 2024 +0100
+
+    Updated Polish translation (#10019)
+    
+    * Update pl.rs
+    
+    * Update README-PL.md
+
+[33mcommit ab6a6ca17d9578aac13dfbb3ef2f4abd84a4ce37[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Nov 23 08:38:30 2024 +0800
+
+    fix: ci macos (#10020)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 28d38cd71d0f5e3e4ac3630efda153b9dcfca4b9[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Fri Nov 22 17:19:22 2024 +0800
+
+    avoid invalid recording files and fix removing little recording file (#10012)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit b487f297b8917a73eedcea265264ba6647b6db7b[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Fri Nov 22 16:58:08 2024 +0900
+
+    flutter 3.24.5
+
+[33mcommit 64654ee7cfa35c274ebf41d6b776c16f9ada46d5[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Fri Nov 22 00:02:25 2024 +0800
+
+    seperate video decoding thread for each display (#9968)
+    
+    * seperate video decoding thread for each display
+    
+    1. Separate Video Decoding Thread for Each Display
+    2. Fix Decode Errors When Clearing the Queue
+    Previously, on-flight frames after clearing the queue could not be decoded successfully. This issue can be resolved by setting a discard_queue flag when sending a refresh message. The flag will be reset upon receiving a keyframe.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+    
+    * update video format along with fps to flutter
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+    
+    * Fix keyframe interval when auto record outgoing sessions
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 1c99eb55008e21dd041a6b756d631d1243657753[m
+Author: Alex Rijckaert <rijckaertalex@gmail.com>
+Date:   Thu Nov 21 12:12:24 2024 +0100
+
+    Update nl.rs (#9997)
+
+[33mcommit 74dd0c8fa0c8e6754e54d9e5637900c1ca89ac19[m
+Author: zyl <zylthinking@users.noreply.github.com>
+Date:   Thu Nov 21 13:36:11 2024 +0800
+
+    fix mis-align problem when converting &[u8] to &[f32] (#9986)
+    
+    * fix: windows, improve audio buffer (#9770)
+    
+    * .
+    
+    * fix statics does not record
+    
+    and avoid channel changing when drio audio when audio is stero
+    
+    * add some commence
+    
+    * fix mis-align problem when converting &[u8] to &[f32]
+    
+    * add safety commence
+    
+    * revert client.rs
+    
+    * avoid tmp lifetime extends
+    
+    * avoid move in loop
+    
+    * avoid use after drop
+    
+    * another use after free
+    
+    * another use after free
+    
+    * make code more reasonable
+    
+    ---------
+    
+    Co-authored-by: zylthinking <zhaoyulong@qianxin.com>
+
+[33mcommit d26fea41ee40c19a67ef9a7d59e3c270dee60386[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Nov 21 02:26:51 2024 +0900
+
+    upgrade The-Fat-Controller
+
+[33mcommit bc211c8031ac3b9b39ab14820ac1d8d064c84580[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Wed Nov 20 19:44:24 2024 +0800
+
+    A=b, A case insensitive (#9976)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit d4cb7d68c5506dd47936da8d06d19d2f3ef0d52a[m
+Author: Mr-Update <37781396+Mr-Update@users.noreply.github.com>
+Date:   Wed Nov 20 12:41:43 2024 +0100
+
+    Update de.rs (#9975)
+
+[33mcommit 608d7d55d5c85c96f2846a20d2d090cd39fd2f88[m
+Author: KAYUII <577738@qq.com>
+Date:   Wed Nov 20 19:41:30 2024 +0800
+
+    add env VCPKG_INSTALLED_ROOT (#9985)
+
+[33mcommit 4a49fbe4a62977f6d121233fb0b4bf7698601476[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 19 17:29:28 2024 +0800
+
+    fix: privacy mode 2 (#9972)
+    
+    Do not change the resolutions when setting the new primary display.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit f760e21ff8ab442579a4d8487b9138fe8dbfe6ec[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 19 15:03:00 2024 +0800
+
+    fix: android w&h, refresh when no connection (#9966)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 251e1a3487518f763e0bb2b7eafb505fbd75b56d[m
+Author: solokot <solokot@gmail.com>
+Date:   Tue Nov 19 03:15:50 2024 +0300
+
+    Update ru.rs (#9962)
+
+[33mcommit b990ff3782bb92f30b9b6a1cac6d43299c6bb122[m
+Author: bovirus <1262554+bovirus@users.noreply.github.com>
+Date:   Tue Nov 19 01:15:37 2024 +0100
+
+    Update Italian language (#9961)
+
+[33mcommit c5426b0fbc60dbca90c68d0e32090ca49055e6ab[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 18 23:03:27 2024 +0800
+
+    Fix hevc decode error "Could not find ref with POC" (#9960)
+    
+    1. Dropping frames can cause this error, reset encoder when this
+       happens.
+    2. There are some logic error for clear video queue, because video queue
+       message is not cleared. This need to be fixed.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 8b710f62c80c4ca93f36fd31389a39b6ba08ce2c[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 18 15:43:41 2024 +0800
+
+    feat: android clipboard, multi-formats (#9950)
+    
+    * feat: android clipboard, multi-formats
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Chore
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Remove unused code
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0707e791e852f096eb31730aa80cf16650151dbd[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 18 15:05:23 2024 +0800
+
+    opt av1 test data (#9954)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit a07392e6b82eca20065bcadd47af2bfb097dd936[m
+Author: XLion <xlion@xlion.tw>
+Date:   Sun Nov 17 21:07:00 2024 +0800
+
+    Add URL and Vendor to RPM spec (#9947)
+
+[33mcommit 9125a68f81f8b219a6b2aeb690a3aca7763ddf65[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Nov 17 11:35:53 2024 +0800
+
+    remove flutter install cache flag (#9944)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9ee77a9b9283246f66002b7330c3271ba32e1dde[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sun Nov 17 09:21:34 2024 +0800
+
+    fix last commit (#9939)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 304e0e465db6c4bf3434fa80d7367f18a1e16160[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Nov 16 22:31:28 2024 +0800
+
+    if av1 is not slow in test, av1 takes precedence over vp9 (#9938)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 5d2bb9c995b8e050a9ef6269f9e329038ff3930c[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Sat Nov 16 16:27:51 2024 +0800
+
+    Update bug_report.yaml (#9935)
+
+[33mcommit ddc172bdfa299534e1a8653feee70fa4ee56a83f[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Sat Nov 16 16:26:26 2024 +0800
+
+    Update bug_report.yaml (#9934)
+
+[33mcommit 06c7bc137fec17e4f6c1abc6fb9537d7af44b6c9[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Nov 14 21:01:41 2024 +0800
+
+    linux android use cpal (#9914)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 9e4cc91a1479a55777d405976f4b025261bae6b3[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Wed Nov 13 17:00:58 2024 +0800
+
+    use linux for bridge because macos runner network problem
+
+[33mcommit 0a28d09ff84355fcfd5837255c39cb85192e8642[m
+Author: zyl <zylthinking@users.noreply.github.com>
+Date:   Wed Nov 13 15:35:23 2024 +0800
+
+    fix: windows, improve audio buffer (#9770) (#9893)
+    
+    * fix: windows, improve audio buffer (#9770)
+    
+    * .
+    
+    * fix statics does not record
+    
+    and avoid channel changing when drio audio when audio is stero
+    
+    * add some commence
+    
+    ---------
+    
+    Co-authored-by: zylthinking <zhaoyulong@qianxin.com>
+
+[33mcommit ab89d84a8f8d72291efafe8bdb84c71caa99cea2[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 12 22:10:56 2024 +0800
+
+    refact: ci, bridge (#9899)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0aa98eac6d8b87894a9e6166cbf589215f392d94[m
+Author: HanaKuru <lead8964878@yahoo.com.tw>
+Date:   Tue Nov 12 20:15:34 2024 +0800
+
+    Use base64Url encoding for server configuration to ensure compatibility with the command line --config option. (#9897)
+
+[33mcommit d4aa2b7ce4bf1d23843e3398f9c4bca813964559[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 12 20:12:05 2024 +0800
+
+    fix: virtual display, headless, wait plug in done (#9895)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 35b4535ebc619e6def057ad8ef2fb84c6cb98610[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 11 16:28:25 2024 +0800
+
+    fix aarch64 nightly build (#9881)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit f0be80c253fd964c4bab6e230d6e7a6439fd9170[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 11 13:06:23 2024 +0800
+
+    fix: macos, workaround app close (#9880)
+    
+    * fix: macos, workaround app close
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Update common.dart
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    Co-authored-by: RustDesk <71636191+rustdesk@users.noreply.github.com>
+
+[33mcommit a79a9f697b5a92f593f8c27edf7825f6a53a6fca[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Nov 11 08:39:54 2024 +0800
+
+    fix "Add to addresssBook" dropdown menu (#9878)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 6082bb275440b3b2c5d0d5adeac389d517364c68[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 11 00:35:41 2024 +0800
+
+    fix: save load window rect, Windows, ignore dpi (#9875)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 4e6a43288e8d003488ff7e7b015ee4e95a42a4d6[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Sun Nov 10 23:56:55 2024 +0800
+
+    https://github.com/rustdesk/rustdesk/issues/9877 https://developer.apple.com/documentation/security/ksecusedataprotectionkeychain
+
+[33mcommit 72a1f1161ef64d1b039754f67435e58dd2ce785b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sun Nov 10 11:18:08 2024 +0800
+
+    refact: flutter 3.24.4 (#9874)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 912f5265f15d56361532241f21abfbfb084ea682[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Sat Nov 9 23:32:18 2024 +0800
+
+    Revert "Refact/flutter 3.24.4 (#9870)" (#9871)
+    
+    This reverts commit 5eb2c31207fdbc8d6bf868b187aef15d9dbf28d7.
+
+[33mcommit 5eb2c31207fdbc8d6bf868b187aef15d9dbf28d7[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sat Nov 9 20:51:47 2024 +0800
+
+    Refact/flutter 3.24.4 (#9870)
+    
+    * Update pubspec.lock
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * refact: flutter 3.24.3
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * fix: workaround Autocomplete options
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * Replace engine with rustdesk custom flutter engine
+    
+    * Update flutter-build.yml to use RustDesk flutter engine
+    
+    * Fix the problem of missing extraction file directory windows-x64-release
+    
+    * Update pubspec.lock.3.22.3
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * remove pubspec.lock.3.22.3
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * upgrade flutter android to 3.24.4
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    Co-authored-by: vitoway <vitoway@email.com>
+    Co-authored-by: vitoway <167743630+vitoway@users.noreply.github.com>
+
+[33mcommit 062c8d582cf4e805481a08df0912fb239d495167[m
+Author: Lee Jong Mun <43285072+crwusiz@users.noreply.github.com>
+Date:   Sat Nov 9 12:37:54 2024 +0900
+
+    kor translation update (#9866)
+
+[33mcommit 68b07505ab4bae7d10fcc63b5a9c767d83385888[m
+Author: XLion <xlion@xlion.tw>
+Date:   Fri Nov 8 22:18:30 2024 +0800
+
+    Update tw.rs (#9863)
+
+[33mcommit d3efcd4223a0687181616ef53d64bbea6c164f1a[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 8 15:01:36 2024 +0800
+
+    fix: mobile, soft keyboard (#9860)
+    
+    Switching the input method, don't affect the canvas.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit a277b022ffc166de1db0c4882a7b7642a4453c86[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Fri Nov 8 15:00:49 2024 +0800
+
+    bump to 1.3.3
+
+[33mcommit 740c5358abb1a6a178ddd8b93a0c50f896b9bf34[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Fri Nov 8 12:12:10 2024 +0800
+
+    rotate ID3D11Texture2D (#9772)
+    
+    * Rotate ID3D11Texture2D after duplication with d3d11 video processor.
+    * If display is not rotated, nothing will be created; If the rotation
+      fails, it will use the old fallback logic
+    
+    TODO:
+    * If changing from Landscape to Landscape(flipped) during capture, the resolution is
+      not changed, video service fallback to gdi directly.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 7978e0301d613e273eecffde4184d4c14e2c196d[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 8 12:11:56 2024 +0800
+
+    fix: input mobile -> Android (#9767)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0f070b0108554ef9d7385c09120ff298770771ec[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Nov 7 22:54:14 2024 +0800
+
+    revert: 9644, iOS, Korean input (#9857)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 6f0cb3b8c2f9381f6fadf3048117ef1843b0e8b2[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Nov 7 22:36:56 2024 +0800
+
+    fix: mobile, two fingers cale, no tapdown (#9856)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit d0ef52e4187dd20f178707c5977d16086f7d8215[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Nov 7 21:23:41 2024 +0800
+
+    fix: touch input, ensure message orders (#9855)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 69277dd16b840bf4c61fc1b47eee049f3a4be212[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Nov 7 14:58:10 2024 +0800
+
+    fix: mobile, don't adjust canvas on gesture help show up (#9846)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit faf97c770cc5a3a2c65a9b9734c37f57ea493e44[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Nov 6 21:59:23 2024 +0800
+
+    fix: mobile, cursor mode, don't reset canvas (#9843)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 78088360ca7dd8de777094d56a3511e12251d9e7[m
+Author: notlin4 <121224522+notlin4@users.noreply.github.com>
+Date:   Wed Nov 6 07:59:12 2024 +0800
+
+    Fix traditional Chinese localization (#9833)
+
+[33mcommit 5cfd1701fb5fe701ec379c1ca91bb4c9ded019b5[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Nov 5 17:55:38 2024 +0800
+
+    fix: mobile input, touch mode, in display (#9827)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit a4bd23c9de3ffa9538180bc24fcb8dff687786fc[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Tue Nov 5 11:28:27 2024 +0800
+
+    fix missing window focus service on windows/macos (#9824)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 12c1337b7bd3815a5d1b0d2affd838f509eff487[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Mon Nov 4 22:37:21 2024 +0800
+
+    fix: mobile mouse mode, cursor range (#9811)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 040253b3199ee9fe95a4d91f16634a9504b83ce0[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 1 15:40:57 2024 +0800
+
+    fix: mobile cursor focus (#9803)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 44fa83d0805154bfa80a3913c5f1801ae0fd4660[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Fri Nov 1 11:25:38 2024 +0800
+
+    fix: android input, soft keyboard, mouse mode (#9797)
+    
+    Cursor movement in the remote screen.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 4f7e10bac6d09f9364edcd2983ce36b0a2e90cb9[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Oct 31 22:57:39 2024 +0800
+
+    Revert "Change the minimum value of the bitrate slider to 5" (#9795)
+    
+    * Revert "Change the minimum value of the bitrate slider to 5 (#9480)"
+    
+    This reverts commit beb1084e877f0ae302945f912a3ccf5aaf59ea84.
+    
+    * Revert "Change the value of kMinQuality to 5  (#9508)"
+    
+    This reverts commit d563372a91a1b1dcb552f6571828ccf081ea3f42.
+
+[33mcommit d1fdcf1b16c440d2af69cc72a344792eaa0e7c6d[m
+Author: jkh0kr <admin@jkh.kr>
+Date:   Thu Oct 31 13:01:37 2024 +0900
+
+    Update ko.rs (#9792)
+
+[33mcommit 4c12b83068df869c4d4c372b0c6d1edeb9233502[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Oct 31 10:20:57 2024 +0800
+
+    fix: android input do not handle composing (#9790)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit f86c88b3d81766a5c6073c321ee56c310beb48eb[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Oct 31 10:11:42 2024 +0800
+
+    refresh icon not visible when not using one-time password (#9791)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 697dd8738346cb3c72fbc6976e9fb45dfb826a58[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Oct 31 10:11:00 2024 +0800
+
+    Refact/mobile remove adjust 4 soft keyabord (#9787)
+    
+    * refact: remove adjust for soft keyboard
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * mobile, do not set the view style after scale end
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0b8cccd8be93e83f54279ca61b0407d6c8c4d388[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Oct 30 19:00:07 2024 +0800
+
+    fix: mobile view style, on conn (#9786)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 32dbc0c8fb0245bd57249828a9f815c1bb5ae668[m
+Author: Kleofass <4000163+Kleofass@users.noreply.github.com>
+Date:   Wed Oct 30 11:08:32 2024 +0200
+
+    Update lv.rs (#9785)
+
+[33mcommit bae4a2c71065e07b9149ef0f4ba5ff47dd6e5f6c[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Oct 30 15:29:52 2024 +0800
+
+    Fix/android check normal usbhid usage (#9784)
+    
+    * fix: android check normal usbhid usage
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * fix: android input, ignore composing if is deleting
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 711ed28846221afee485e8826e7d738990f83952[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Wed Oct 30 13:12:18 2024 +0800
+
+    Revert "revert: #9769 (#9780)" (#9783)
+    
+    This reverts commit 0f5f9f65245e40b6c0ebb434308be0fe4b2b129b.
+
+[33mcommit e6c5064ce53baee2fafcdc355653a712a66a29d7[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Oct 30 13:05:25 2024 +0800
+
+    fix: android input, Backspace and Enter (#9782)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 0f5f9f65245e40b6c0ebb434308be0fe4b2b129b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Oct 30 12:17:13 2024 +0800
+
+    revert: #9769 (#9780)
+    
+    Not sure TextEditingController.addListener() can handle all composing
+    changes.
+    
+    https://github.com/rustdesk/rustdesk/issues/7727#issuecomment-2445721499
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit ce7867c1c0ab534afdf4082474a5369d3253b145[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Wed Oct 30 11:29:39 2024 +0800
+
+    fix wrong display of custom clients when approval mode is not set (#9779)
+    
+    when approve-mode is not set, the approve mode option shows as
+    password, it's `both` approve mode in rust, so only ui is wrong.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 415d2c5c60a309f4b869452366acfbf19e75fca7[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Tue Oct 29 22:52:46 2024 +0800
+
+    OPTION_VERIFICATION_METHOD
+
+[33mcommit a289eae07c6c99480f0d758660150fc35e1523fb[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Oct 29 19:57:29 2024 +0800
+
+    fix: mobile -> mobile, long press (#9775)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 1c9b456456d866b73003a58d97c28c7c788eee76[m
+Author: RustDesk <71636191+rustdesk@users.noreply.github.com>
+Date:   Tue Oct 29 15:33:12 2024 +0800
+
+    Update bug_report.yaml (#9771)
+
+[33mcommit eba19e67ffc5fe09c5e06a2e56197fd686d35029[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Oct 29 14:19:16 2024 +0800
+
+    fix: mobile input (#9769)
+    
+    1. Map mode. Check if the KeyEvent's usbHidUsage is correct.
+    2. Korean input, use listener to handle composing state.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit adc5a7be51bec5a8009c0ae056e3b91e64918054[m
+Author: John Fowler <oldfox958@gmail.com>
+Date:   Tue Oct 29 06:55:13 2024 +0100
+
+    Update hu.rs (#9762)
+    
+    Making the Hungarian language file complete. Adding tips in Hungarian.
+
+[33mcommit 26d23d588a8a0d6263d76193e84189411411db8f[m
+Author: pppanghu77 <liujinchang@uniontech.com>
+Date:   Tue Oct 29 13:54:16 2024 +0800
+
+    fix: [translations] Add the translation in cn.rs (#9768)
+    
+    Add the translation in cn.rs
+    
+    Log: Add the translation in cn.rs
+
+[33mcommit f0450db2030f71df423b5c508b98b7332de0a355[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Tue Oct 29 09:49:04 2024 +0800
+
+    refact: mobile reset canvas (#9766)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 3a7594755341f023f56fa4b6a43b60d6b47df88d[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Mon Oct 28 09:40:16 2024 +0800
+
+    add some missing web bridge (#9763)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit c56584906276463f7a4c23e26fc6a1ad1da0252b[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Sun Oct 27 20:36:21 2024 +0800
+
+    fix: Function "LockScreen" on macOS since "ignore_flags" in enigo is introduced. (#9757)
+    
+    1. LockScreen after connection is established.
+    2. LockScreen after "Map mode" or "Translate mode" keys are sent.
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit 40e8f0d3076426f6bb5780f0bf21bd2509f5c17a[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Sat Oct 26 22:05:54 2024 +0800
+
+    revert missing retry and opt keep session (#9755)
+    
+    * Revert "fix missing retry (#8750)"
+    
+    If `hasRetry` is true: there is a retry timeout;
+    If `hasRetry` is false: there is no retry button;
+    
+    In
+    https://github.com/rustdesk/rustdesk/discussions/8748#discussioncomment-10081038,when
+    doesn't want inactive to retry,
+    https://github.com/rustdesk/rustdesk/blob/cf0e3ec303990a48e0b3a6beedd3587079a6526c/flutter/lib/models/model.dart#L444,
+    1.2.3 always show retry no matter what `hasRetry` is.
+    
+    This reverts commit c3c99ba10725158eaf37fb7fbf7665526138bb88.
+    
+    * not keep session if there is no remote connection left.
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 129f6c869b2d836b829fc5939f4d783f6de08f45[m
+Author: bovirus <1262554+bovirus@users.noreply.github.com>
+Date:   Sat Oct 26 10:06:29 2024 +0200
+
+    Update Italian language (#9752)
+
+[33mcommit 924aa515c6977a6f4c31078fe6a86e2db61ab237[m
+Author: Tobias Degen <40177712+tobiasdegen@users.noreply.github.com>
+Date:   Fri Oct 25 02:21:42 2024 +0200
+
+    fix german translation (#9742)
+
+[33mcommit c51771c8548ddd0970337bb6a9c2fcbc0b9bb677[m
+Author: solokot <solokot@gmail.com>
+Date:   Fri Oct 25 03:08:02 2024 +0300
+
+    Update ru.rs (#9741)
+
+[33mcommit c8b90319966a54ea5629344d328c54701f671a08[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Oct 24 23:14:43 2024 +0800
+
+    refactor session insert, update if already exists (#9739)
+    
+    * All share the same last_receive_time
+    * Not second port forward
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 4da584055d791d6533ff0376d6216a2df1c175e2[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Oct 24 22:52:06 2024 +0800
+
+    fix ci
+
+[33mcommit bd22b01370b290a2fdf34aaf03a2164318516043[m
+Author: rustdesk <info@rustdesk.com>
+Date:   Thu Oct 24 22:27:51 2024 +0800
+
+    fix "insert ctrl+alt+del"
+
+[33mcommit b35b48086a3b5cf535beb726e4d9142e6461a357[m
+Author: Tobias Degen <40177712+tobiasdegen@users.noreply.github.com>
+Date:   Thu Oct 24 15:52:39 2024 +0200
+
+    Add translation string for better translationj capability (#9736)
+    
+    * Add new translation für sending Ctrl+Alt+Del
+    
+    * Add new translation string for sending Ctrl+Alt+Del
+
+[33mcommit 445e9ac2853ed20113bf2d186ff010b959f992c7[m
+Author: 21pages <sunboeasy@gmail.com>
+Date:   Thu Oct 24 17:20:48 2024 +0800
+
+    no password required for file transfer action in remote control menu (#9731)
+    
+    Signed-off-by: 21pages <sunboeasy@gmail.com>
+
+[33mcommit 7a3e1fe64861b60b545adf7ba7bffedf7d2a0787[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Thu Oct 24 14:33:37 2024 +0800
+
+    fix:  ->macos, mouse events,  key flags (#9733)
+    
+    * fix: win->macos, mouse events,  key flags
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    * comments
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+    
+    ---------
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
+
+[33mcommit dfa9519d5860fa4fcea6a7ea2bafe9049cc72f70[m
+Author: Alex Rijckaert <rijckaertalex@gmail.com>
+Date:   Wed Oct 23 12:13:05 2024 +0200
+
+    Update nl.rs (#9726)
+
+[33mcommit cc6f919080e541eeb1eecd32765dd5d68d3f69ae[m
+Author: fufesou <13586388+fufesou@users.noreply.github.com>
+Date:   Wed Oct 23 09:28:39 2024 +0800
+
+    feat: mobile map mode (#9717)
+    
+    Signed-off-by: fufesou <linlong1266@gmail.com>
