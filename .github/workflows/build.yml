@@ -1,0 +1,23 @@
+name: Build with Private Submodule
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository (with submodules)
+        uses: actions/checkout@v4
+        with:
+          submodules: 'recursive'    # 👈 拉取子模块
+          ssh-key: ${{ secrets.DEPLOY_KEY }}  # 👈 使用你添加的私钥
+
+      - name: Build your project
+        run: |
+          echo "开始构建..."
+          # 比如 npm install / make / mvn package 等
